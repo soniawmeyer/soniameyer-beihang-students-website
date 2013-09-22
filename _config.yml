@@ -1,3 +1,8 @@
-name: Your New Jekyll Site
+name: Professor Sonia Meyer's Website
 markdown: redcarpet
 pygments: true
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile']
+title : Professor Sonia Meyer's Website
+author :
+  name : Sonia Meyer
+  email : sonia@meyercraft.net
