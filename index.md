@@ -5,7 +5,7 @@ title: Professor Sonia Meyer's Beihang Website
 
 # Welcome Students!
 
-I will post all the class material to this website, so be sure to check it frequently.
+I will post all the class material to this website, so be sure to check it frequently. If you have questions, [email me](mailto:sonia@meyercraft.net).
 
 </br>
 
