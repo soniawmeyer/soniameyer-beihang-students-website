@@ -34,7 +34,7 @@ I will post all the class material to this website, so be sure to check it frequ
 1. Syllabus: [29C](resources/week/2/29C Syllabus.pdf), [37C](resources/week/2/37C Syllabus.pdf)
 2. [Your textbook](resources/week/2/American Ways.pdf)
 3. [Informality Powerpoint](resources/week/2/Week 2 Informality PPT_no images.ppt)
-4. [Informal v. Formal Introduction Dialogues](resources/week/2/In/Formal Introduction Dialogues.pdf)
+4. [Informal v. Formal Introduction Dialogues](resources/week/2/In-Formal Introduction Dialogues.pdf)
 5. [*American Ways* Excerpt: Informality](resources/week/2/American Ways-Informality.pdf)
 
 ### Week 3: Family
