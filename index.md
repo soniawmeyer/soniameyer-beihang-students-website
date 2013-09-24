@@ -9,35 +9,7 @@ I will post all the class material to this website, so be sure to check it frequ
 
 </br>
 
-## Undergraduate Listening and Speaking Course (S1, S3, S4, S6, SF2)
+Click on the class that you are in to find your weekly homework, supplementary reading, and other information.
 
-### Week 2: Informality
-
-1. Syllabus: [S1](resources/week/2/S1 Syllabus.pdf), [S3](resources/week/2/S3 Syllabus.pdf), [S4](resources/week/2/S4 Syllabus.pdf), [S6](resources/week/2/S6 Syllabus.pdf), [SF2](resources/week/2/SF2 Syllabus.pdf)
-2. [Your texbook](resources/week/2/english_listening_2.JPG)
-3. [Informality Powerpoint](resources/week/2/Week 2 Informality PPT.ppt)
-4. [Informal v. Formal Introduction Dialogues](resources/week/2/In-Formal Introduction Dialogues.pdf)
-5. [*American Ways* Excerpt: Informality](resources/week/2/American Ways-Informality.pdf)
-6. Homework: Unit 6, p.64 #6
-
-### Week 3: Family
-
-1. [*American Ways* Excerpt: Family](resources/week/3/American Ways-Family.pdf)
-2. [*American Ways* Excerpt: Individualism and Privacy](resources/week/3/American Ways-Individualism and Privacy.pdf)
-
-</br>
-
-## Graduate Western Culture Course (18C, 29C, 37C)
-
-### Week 2: Informality
-
-1. Syllabus: [29C](resources/week/2/29C Syllabus.pdf), [37C](resources/week/2/37C Syllabus.pdf)
-2. [Your textbook](resources/week/2/American Ways.pdf)
-3. [Informality Powerpoint](resources/week/2/Week 2 Informality PPT_no images.ppt)
-4. [Informal v. Formal Introduction Dialogues](resources/week/2/In-Formal Introduction Dialogues.pdf)
-5. [*American Ways* Excerpt: Informality](resources/week/2/American Ways-Informality.pdf)
-
-### Week 3: Family
-
-1. [*American Ways* Excerpt: Family](resources/week/3/American Ways-Family.pdf)
-2. [*American Ways* Excerpt: Individualism and Privacy](resources/week/3/American Ways-Individualism and Privacy.pdf)
+*	[S1: Monday, Period 5-6](classes/s1s3s4s6.html)*	[S4: Monday, Period 7-8](classes/s1s3s4s6.html)*	[SF2: Tuesday, Period 5-6](classes/sf2.html)*	[29C: Tuesday, Period 1-2](classes/29c37c.html)*	[37C: Tuesday, Period 3-4](classes/29c37c.html)
+*	[S6: Wednesday, Period 1-2](classes/s1s3s4s6.html)*	[S3: Wednesday, Period 3-4](classes/s1s3s4s6.html)*	[18C: Friday, Period 1-2](classes/18c.html)
