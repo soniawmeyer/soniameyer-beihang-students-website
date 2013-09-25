@@ -20,3 +20,7 @@ title: Professor Sonia Meyer's Beihang Website
 2. [*American Ways* Excerpt: Individualism and Privacy](/resources/Week 3 American Ways-Individualism and Privacy.pdf)
 3. [American Families Powerpoint Presentation](/resources/Week 3 LS Family.ppt)
 4. Homework: Unit 2, p. 20 #2, 4; p. 21 #7-8
+5. [An explanation of Judaism](/resources/Week 3 Judaism.pdf)
+6. [The basic tenets of Islam](/resources/Week 3 Islam.pdf)
+>Announcement: On the presentation sign up sheet, I made a typo, which caused some confusion. For those presenting about Family, you will present during Week 5 and for those who signed up to present on Politics,  you will present during week 6.
+>>Sorry for the confusion. I hope everyone has a good holiday!
