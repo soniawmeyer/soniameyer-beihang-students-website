@@ -24,6 +24,5 @@ title: Professor Sonia Meyer's Beihang Website
 6. [The basic tenets of Islam](/resources/Week 3 Islam.pdf)
 
 
->
-Announcement: On the presentation sign up sheet, I made a typo, which caused some confusion. For those presenting about Family, you will present during Week 5 and for those who signed up to present on Politics,  you will present during week 6.
->>Sorry for the confusion. I hope everyone has a good holiday!
+> Announcement: On the presentation sign up sheet, I made a typo, which caused some confusion. For those presenting about Family, you will present during Week 5 and for those who signed up to present on Politics,  you will present during week 6.
+>> Sorry for the confusion. I hope everyone has a good holiday!
