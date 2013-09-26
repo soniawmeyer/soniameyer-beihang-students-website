@@ -23,7 +23,7 @@ title: Professor Sonia Meyer's Beihang Website
 5. [An explanation of Judaism](/resources/Week 3 Judaism.pdf)
 6. [The basic tenets of Islam](/resources/Week 3 Islam.pdf)
 
-</br>
+<br />
 
 >	Announcement: On the presentation sign up sheet, I made a typo, which caused some confusion. For those presenting about Family, you will present during Week 5 and for those who signed up to present on Politics,  you will present during week 6.
 

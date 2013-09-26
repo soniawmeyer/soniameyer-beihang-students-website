@@ -13,3 +13,4 @@ Click on the class that you are in to find your weekly homework, supplementary r
 
 *	[S1: Monday, Period 5-6](classes/s1s3s4s6.html)*	[S4: Monday, Period 7-8](classes/s1s3s4s6.html)*	[SF2: Tuesday, Period 5-6](classes/sf2.html)*	[29C: Tuesday, Period 1-2](classes/29c37c.html)*	[37C: Tuesday, Period 3-4](classes/29c37c.html)
 *	[S6: Wednesday, Period 1-2](classes/s1s3s4s6.html)*	[S3: Wednesday, Period 3-4](classes/s1s3s4s6.html)*	[18C: Friday, Period 1-2](classes/18c.html)
+Also, an interesting infographic that depicts cultural differences between Eastern and Western cultures, [here](http://bsix12.com/east-meets-west/).
