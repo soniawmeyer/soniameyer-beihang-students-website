@@ -1,5 +1,5 @@
 name: Professor Sonia Meyer's Website
-markdown: redcarpet
+markdown: kramdown
 pygments: true
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'CNAME']
 title : Professor Sonia Meyer's Website
