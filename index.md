@@ -23,3 +23,10 @@ Click on the class that you are in to find your weekly homework, supplementary r
 ## Extra
 
 Also, an interesting infographic that depicts cultural differences between Eastern and Western cultures, [here](http://bsix12.com/east-meets-west/).
+
+## Downloads
+
+***Not yet available***
+
+* 英语听力课本CD1
+* 英语听力课本CD2
