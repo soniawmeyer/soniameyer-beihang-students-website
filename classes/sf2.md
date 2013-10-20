@@ -61,8 +61,6 @@ title: Professor Sonia Meyer's Beihang Website
 4. [American Technology Powerpoint Presentation](/resources/Week 6 LS Technology.ppt)
 5. Homework: ??
 
-</br>
-
 >	Scheduled for next week's oral presentation on technology are: Tina, Frank Hu, Lucien, Timothy, Diamond, Samuel, Jackson, Bob, and Calvin
 
 </div>
@@ -73,9 +71,6 @@ title: Professor Sonia Meyer's Beihang Website
 3. [*American Ways* Excerpt: Recreation](/resources/Week 7 American Ways-Recreation.pdf)
 4. [American Recreation Powerpoint Presentation](/resources/Week 7 LS Recreation.ppt)
 5. Homework: ??
-
-
-</br>
 
 >	Scheduled for next week's oral presentation on recreation are: Meachials, Tiny, and Rick Yan
 
@@ -89,8 +84,6 @@ title: Professor Sonia Meyer's Beihang Website
 4. [American Education Powerpoint Presentation](/resources/Week 8 LS Education.ppt)
 5. Homework: ??
 
-</br>
-
 >	Scheduled for next week's oral presentation on education are: Alex, Amy, Victor, Lucien, Frank Hu, Adam, Jean, Jack Han, and Denis
 
 </div>
@@ -103,8 +96,6 @@ title: Professor Sonia Meyer's Beihang Website
 4. [American Pop Culture Powerpoint Presentation](/resources/Week 9 LS Pop Culture.ppt)
 5. Homework: ??
 
-</br>
-
 >	Scheduled for next week's oral presentation on pop culture are: Santa, Clara, Lily, Helen, Tracy, Jason, David, Robert, and Paul
 
 </div>
@@ -115,8 +106,6 @@ title: Professor Sonia Meyer's Beihang Website
 3. [American Thanksgiving](/resources/Week 10 Thanksgiving Pamphlet.pdf)
 4. [American Holidays Powerpoint Presentation](/resources/Week 10 LS Holidays.ppt)
 5. Homework: ??
-
-</br>
 
 >	Scheduled for next week's oral presentation on holidays are: Wency, Diana, Amy, Lily, Jason, Tracy, Jack Lin, Richard, and Mechials
 
@@ -131,8 +120,6 @@ title: Professor Sonia Meyer's Beihang Website
 4. [American Globalization Powerpoint Presentation](/resources/Week 11 LS Globalization.ppt)
 5. Homework: ??
 
-</br>
-
 >	Scheduled for next week's oral presentation on globalization are: Clara, Stephen, Jack Lin, Diamond, Jeff, Tony, Bob, and Frank Wang 1
 
 </div>
@@ -146,8 +133,6 @@ title: Professor Sonia Meyer's Beihang Website
 4. [American Socialization Powerpoint Presentation](/resources/Week 12 LS Socialization.ppt)
 5. Homework: ??
 
-</br>
-
 >	Scheduled for next week's oral presentation on socialization are: Wency, Alex, and Optimus
 
 </div>
@@ -158,8 +143,6 @@ title: Professor Sonia Meyer's Beihang Website
 3. [*American Ways* Excerpt: Diversity](/resources/Week 13 American Ways-Diversity.pdf)
 4. [American Diversity Powerpoint Presentation](/resources/Week 13 LS Diversity.ppt)
 5. Homework: ??
-
-</br>
 
 >	Scheduled for next week's oral presentation on minorities are: Frank Wang 2, Richard, Jack Han, Tiny, Tony, and Optimus
 
@@ -173,8 +156,6 @@ title: Professor Sonia Meyer's Beihang Website
 4. [Women in the World Today](/resources/Week 14 Women in the World Today.pdf)
 4. [American Inequality Powerpoint Presentation](/resources/Week 14 LS Inequality.ppt)
 5. Homework: ??
-
-</br>
 
 >	Scheduled for next week's oral presentation on inequality are: Helen, Timothy, Jean, Adam, David, Robert, Jackson, Jeff, and Calvin
 
