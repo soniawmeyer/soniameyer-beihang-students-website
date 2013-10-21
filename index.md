@@ -31,4 +31,4 @@ Also, an interesting infographic that depicts cultural differences between Easte
 
 ## Announcement
 
-This week's office hours are cancelled because my family is in town.
+This week's (Oct 21 to Oct 25) office hours are cancelled because my family is in town. If you need to meet me or have a question about material, please [email me](mailto:sonia@meyercraft.net).
