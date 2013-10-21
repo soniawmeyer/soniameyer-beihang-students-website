@@ -30,3 +30,7 @@ Also, an interesting infographic that depicts cultural differences between Easte
 
 * 英语听力课本CD1
 * 英语听力课本CD2
+
+## Announcement
+
+This week's office hours are cancelled because my family is in town.
