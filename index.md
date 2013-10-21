@@ -26,9 +26,7 @@ Also, an interesting infographic that depicts cultural differences between Easte
 
 ## Downloads
 
-***Not yet available***
-
-* 英语听力课本CD1
+* [英语听力课本CD1][https://s3.amazonaws.com/www.joeymeyer.com/download/CD1.zip]
 * 英语听力课本CD2
 
 ## Announcement
