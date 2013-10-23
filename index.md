@@ -26,9 +26,9 @@ Also, an interesting infographic that depicts cultural differences between Easte
 
 ## Downloads
 
-* [英语听力课本CD1](http://s3.amazonaws.com/www.joeymeyer.com/download/CD1.zip)
-* 英语听力课本CD2
+* [英语听力课本 CD1](http://s3.amazonaws.com/www.joeymeyer.com/download/CD1.zip)
+* [英语听力课本 CD2](http://s3.amazonaws.com/www.joeymeyer.com/download/CD2.zip)
 
 ## Announcement
 
-This week's office hours are cancelled because my family is in town.
+This week's (Oct 21 to Oct 25) office hours are cancelled because my family is in town. If you need to meet me or have a question about material, please [email me](mailto:sonia@meyercraft.net).
