@@ -68,23 +68,9 @@ Scheduled for next week's oral presentation on technology are: Tina, Frank Hu, L
 
 </div>
 
-<div class="week" id="week-7" markdown="1">
-
-### Week 7: Recreation
-
-3. [*American Ways* Excerpt: Recreation](/resources/Week 7 American Ways-Recreation.pdf)
-4. [American Recreation Powerpoint Presentation](/resources/Week 7 LS Recreation.ppt)
-5. Homework: ??
-
-##### Presentations
-
-Scheduled for next week's oral presentation on recreation are: Meachials, Tiny, and Rick Yan
-
-</div>
-
 <div class="week" id="week-8" markdown="1">
 
-### Week 8: Education
+### Week 7: Education
 
 3. [*American Ways* Excerpt: Education](/resources/Week 8 American Ways-Education.pdf)
 3. [*American Ways* Excerpt: Studying](/resources/Week 8 American Ways-Studying.pdf)
@@ -94,6 +80,20 @@ Scheduled for next week's oral presentation on recreation are: Meachials, Tiny, 
 ##### Presentations
 
 Scheduled for next week's oral presentation on education are: Alex, Amy, Victor, Lucien, Frank Hu, Adam, Jean, Jack Han, and Denis
+
+</div>
+
+<div class="week" id="week-7" markdown="1">
+
+### Week 8: Recreation
+
+3. [*American Ways* Excerpt: Recreation](/resources/Week 7 American Ways-Recreation.pdf)
+4. [American Recreation Powerpoint Presentation](/resources/Week 7 LS Recreation.ppt)
+5. Homework: None
+
+##### Presentations
+
+Scheduled for next week's oral presentation on recreation are: Meachials, Tiny, and Rick Yan
 
 </div>
 
