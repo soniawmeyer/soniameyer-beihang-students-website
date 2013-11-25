@@ -103,7 +103,7 @@ Scheduled for next week's oral presentation on recreation are: Meachials, Tiny, 
 3. [*American Ways* Excerpt: Media](/resources/Week 9 American Ways-Media.pdf)
 3. [Pop Culture v Real America](/resources/Week 9 Pop Culture v Real America.pdf)
 4. [American Pop Culture Powerpoint Presentation](/resources/Week 9 LS Pop Culture.ppt)
-5. Homework: ??
+5. Homework: Unit 4, p. 42, #1, 3
 
 ##### Presentations
 
@@ -116,7 +116,7 @@ Scheduled for next week's oral presentation on pop culture are: Santa, Clara, Li
 ### Week 10: Holidays
 3. [American Thanksgiving](/resources/Week 10 Thanksgiving Pamphlet.pdf)
 4. [American Holidays Powerpoint Presentation](/resources/Week 10 LS Holidays.ppt)
-5. Homework: ??
+5. Homework: None
 
 ##### Presentations
 
@@ -131,7 +131,7 @@ Scheduled for next week's oral presentation on holidays are: Wency, Diana, Amy, 
 4. [American NGOs](/resources/Week 11 American NGOs.pdf)
 3. [An example of US-China relationships](/resources/Week 11 Mississippi Meets Yangtze in U.S.-China Rivers Partnership.pdf)
 4. [American Globalization Powerpoint Presentation](/resources/Week 11 LS Globalization.ppt)
-5. Homework: ??
+5. Homework: None
 
 ##### Presentations
 
@@ -146,7 +146,7 @@ Scheduled for next week's oral presentation on globalization are: Clara, Stephen
 3. [*American Ways* Excerpt: Male-Female Relationships](/resources/Week 12 American Ways-Relationships.pdf)
 3. [*American Ways* Excerpt: Social Relationships](/resources/Week 12 American Ways-Social.pdf)
 4. [American Socialization Powerpoint Presentation](/resources/Week 12 LS Socialization.ppt)
-5. Homework: ??
+5. Homework: None
 
 ##### Presentations
 
