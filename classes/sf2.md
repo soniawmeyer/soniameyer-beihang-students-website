@@ -167,8 +167,7 @@ Scheduled for next week's oral presentation on minorities are: Frank Wang 2, Ric
 
 </div>
 
-### (Final: Debate and Group Conversation)[Final-Debate and Conversation.pdf]
-
+### [Final: Debate and Group Conversation](Final-Debate and Conversation.pdf)
 
 <div class="week" id="week-14" markdown="1">
 
