@@ -159,13 +159,16 @@ Scheduled for next week's oral presentation on socialization are: Wency, Alex, a
 ### Week 13: Minorities
 3. [*American Ways* Excerpt: Diversity](/resources/Week 13 American Ways-Diversity.pdf)
 4. [American Diversity Powerpoint Presentation](/resources/Week 13 LS Diversity.ppt)
-5. Homework: ??
+5. Homework:  Work with your group on your final project (the debate).
 
 ##### Presentations
 
 Scheduled for next week's oral presentation on minorities are: Frank Wang 2, Richard, Jack Han, Tiny, Tony, and Optimus
 
 </div>
+
+### (Final: Debate and Group Conversation)[Final-Debate and Conversation.pdf]
+
 
 <div class="week" id="week-14" markdown="1">
 
