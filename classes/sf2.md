@@ -158,8 +158,8 @@ Scheduled for next week's oral presentation on socialization are: Wency, Alex, a
 
 ### Week 13: Minorities
 3. [*American Ways* Excerpt: Diversity](/resources/Week 13 American Ways-Diversity.pdf)
-4. [American Diversity Powerpoint Presentation](/resources/Week 13 LS Diversity.ppt)
-5. Homework:  Work with your group on your final project (the debate).
+4. [American Minorities Powerpoint Presentation](/resources/Week 13 LS Minorities.ppt)
+5. Homework:  Work with your group on your final project (the debate). Email me your resolution by next class (one email per 2 opposing teams).
 
 ##### Presentations
 
