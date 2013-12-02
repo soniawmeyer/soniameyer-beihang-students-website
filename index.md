@@ -22,13 +22,17 @@ Click on the class that you are in to find your weekly homework, supplementary r
 
 ## Extra
 
-Also, an interesting infographic that depicts cultural differences between Eastern and Western cultures, [here](http://bsix12.com/east-meets-west/).
+[An interesting infographic that depicts cultural differences between Eastern and Western culture](http://bsix12.com/east-meets-west/)
+
+[The Most Surprising Things About America, According To An Indian International Student](http://www.businessinsider.com/the-weirdest-things-about-america-2013-8)
 
 ## Downloads
 
 * [英语听力课本 CD1](http://s3.amazonaws.com/www.joeymeyer.com/download/CD1.zip)
 * [英语听力课本 CD2](http://s3.amazonaws.com/www.joeymeyer.com/download/CD2.zip)
 
-## Announcement
+## Announcements
 
-This week's (Oct 21 to Oct 25) office hours are cancelled because my family is in town. If you need to meet me or have a question about material, please [email me](mailto:sonia@meyercraft.net).
+Monday morning office hours are cancelled. You may still come to my Wednesday afternoon office hours (Ruxin 903).
+
+The extra credit tests will be on December 17 (北主405) and December 18 (J5-204).
