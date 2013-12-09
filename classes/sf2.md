@@ -177,7 +177,7 @@ Scheduled for next week's oral presentation on minorities are: Frank Wang 2, Ric
 4. [Equal Education](/resources/Week 14 Equal Education.pdf)
 4. [Women in the World Today](/resources/Week 14 Women in the World Today.pdf)
 4. [American Inequality Powerpoint Presentation](/resources/Week 14 LS Inequality.ppt)
-5. Homework: ??
+5. Homework: Work on your argument for the debate
 
 ##### Presentations
 
@@ -188,5 +188,6 @@ Scheduled for next week's oral presentation on inequality are: Helen, Timothy, J
 <div class="week" id="week-15" markdown="1">
 
 ###Week 15: Students' Choice
+1. Homework: Practice debating
 
 </div>
