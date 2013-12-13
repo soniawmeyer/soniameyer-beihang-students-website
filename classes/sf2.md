@@ -169,6 +169,12 @@ Scheduled for next week's oral presentation on minorities are: Frank Wang 2, Ric
 
 ### [Final: Debate and Group Conversation](/resources/Final-Debate and Conversation.pdf)
 ####[Debate Reasoning Guide](/resources/Final-Debate Reasoning Guide.pdf)
+####[Debate Schedule and Information](/resources/Debate Final Schedule and Information.pdf)
+#### [Debate Rubric](/resources/Debate Rubric.pdf)
+
+###Announcement: Unfortunately, due to bad timing, our class review will be after the extra credit test. If you plan on taking the extra credit test, you may download the review here:
+-[Mac](/resources/Jeopardy_Review_MAC.zip)
+-[PC](/resources/Jeopardy_Review_PC.zip)
 
 <div class="week" id="week-14" markdown="1">
 
