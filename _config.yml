@@ -1,8 +1,8 @@
-name: Professor Sonia Meyer's Website
+name: Sonia's Beihang Website
 markdown: kramdown
 pygments: true
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'CNAME']
-title : Professor Sonia Meyer's Website
+title : Sonia's Beihang Website
 author :
   name : Sonia Meyer
   email : sonia@meyercraft.net
