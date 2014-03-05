@@ -9,10 +9,10 @@ I will post all the class material to this website, so be sure to check it frequ
 
 ## Classes
 
-Monday Afternoon: [S1 & S4](/classes/s1s4sf3ls.md): Listening and Speaking
+Monday Afternoon: [S1 & S4](/classes/s1s4sf3ls.html): Listening and Speaking
 
-Wednesday Morning: [S1 & S4](/classes/s1s4rw.md): Reading and Writing
+Wednesday Morning: [S1 & S4](/classes/s1s4rw.html): Reading and Writing
 
-Thursday: [Class 15, 18, & 21](/classes/151821.md): American Culture
+Thursday: [Class 15, 18, & 21](/classes/151821.html): American Culture
 
-Thursday Evening: [Sino-French Class 3](/classes/s1s4sf3ls.md): Listening and Speaking
+Thursday Evening: [Sino-French Class 3](/classes/s1s4sf3ls.html): Listening and Speaking
