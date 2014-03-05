@@ -1,16 +1,18 @@
 ---
 layout: default
-title: Professor Sonia Meyer's Beihang Website
+title: Mrs. Sonia Meyer's Beihang Website
 ---
 
 # Welcome Students!
 
 I will post all the class material to this website, so be sure to check it frequently. If you have questions, [email me](mailto:sonia@meyercraft.net).
 
-## Grades
+## Classes
 
-[Undergraduates](/resources/Sonia's Grades_Humanities Experimental S1-S6.xls)
+Monday Afternoon: [S1 & S4](/classes/s1s4sf3ls.md): Listening and Speaking
 
-[Sino-French Students](/resources/Sonia's Grades_Sino-French Engineering 1-3班.xls)
+Wednesday Morning: [S1 & S4](/classes/s1s4rw.md): Reading and Writing
 
-[Graduate Students](/resources/Sonia's Grades_Sonia-31,39,20.xlsx)
+Thursday: [Class 15, 18, & 21](/classes/151821.md): American Culture
+
+Thursday Evening: [Sino-French Class 3](/classes/s1s4sf3ls.md): Listening and Speaking
