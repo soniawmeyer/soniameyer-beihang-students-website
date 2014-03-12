@@ -16,3 +16,5 @@ Wednesday Morning: [S1 & S4](/classes/s1s4rw.html): Reading and Writing
 Thursday: [Class 15, 18, & 21](/classes/151821.html): American Culture
 
 Thursday Evening: [Sino-French Class 3](/classes/s1s4sf3ls.html): Listening and Speaking
+
+####[Presentation Sign Up Sheets-All Classes](https://www.dropbox.com/s/chkxlrdbcgps43p/Spring14%20LS%20Presentations.pdf)
