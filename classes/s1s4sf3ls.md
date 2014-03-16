@@ -14,9 +14,10 @@ title: Mrs. Sonia Meyer's Beihang Website
 
 ### Week 2
 
+1. Notice: This homework is only for SF3, not for S1 and S4. 
 2. Homework:
    - Listen to the article--[“A Frat of Their Own: Muslims Create a New Space on Campus”](/resources/W2HW muslim frat.mp3)
-   - Read the [article](/resources/W2HW A Frat Of Their Own/ Muslims Create A New Space On Campus / NPR.pdf)
+   - Read the [article](/resources/W2HW A Frat Of Their Own Muslims Create A New Space On Campus NPR.pdf)
    - Identify unknown words and define them   - Be prepared to discuss this article next class
 
 ###For your information (FYI)
