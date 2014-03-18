@@ -18,3 +18,7 @@ title: Professor Sonia Meyer's Beihang Website
 
 
 4. Homework: [Essay Structure](https://www.dropbox.com/s/1o94304gopmg21g/W1-Essay%20Structure.pdf), p. 104-110
+
+### Week 3
+1. [Week 3 PPT](https://www.dropbox.com/s/vaxp5zauqmbwd24/W3RW-Scanning.ppt)
+2. Homework: [The History of Life](https://www.dropbox.com/s/0psju6geqwv0pl2/W1%E4%BD%9C%E4%B8%9A-History%20of%20Life%20on%20earth.docx)
