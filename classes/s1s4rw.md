@@ -22,3 +22,12 @@ title: Professor Sonia Meyer's Beihang Website
 ### Week 3
 1. [Week 3 PPT](https://www.dropbox.com/s/vaxp5zauqmbwd24/W3RW-Scanning.ppt)
 2. Homework: Create a reverse outline of [The History of Life](https://www.dropbox.com/s/0psju6geqwv0pl2/W1%E4%BD%9C%E4%B8%9A-History%20of%20Life%20on%20earth.docx)
+
+### Week 4
+1. [Week 4 PPT](https://www.dropbox.com/s/f1ymzhe38oaou5p/W4RW-Research%20Process.ppt)
+2. Print these articles and bring them to class:
+   - [Britain and Japan](https://www.dropbox.com/s/6oaq3n9ot406ev6/W4RW-Britain%20and%20Japan%20%28reading%20titles%29.docx)
+3. You can also print these too, if you want to:
+   - [Transition Signals](https://www.dropbox.com/s/k7sy2n74ygkqatv/W4RW%20Transition%20Signals.pdf)
+   - [Sonia's Example Academic Research Article](https://www.dropbox.com/s/ww9fgjdx2xy6sdp/W4RW%20same-sex%20parents.pdf)
+2. Homework: Find an article in English that is related to your thesis (from last class) and take detailed notes.

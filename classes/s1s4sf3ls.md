@@ -24,6 +24,12 @@ title: Mrs. Sonia Meyer's Beihang Website
 2. [Making Excuses PDF](https://www.dropbox.com/s/7nwluhgrq0g1uk5/W3LS%20Making%20excuses.pdf)
 3. [Anti-Muslim Propaganda](https://www.dropbox.com/s/e1930i1cr8cmjxh/W3LS%20Muslim%20propaganda.ppt)
 
+### Week 4
+1. [Airplanes PPT](https://www.dropbox.com/s/qtg2xvj99be5soq/W4LS%20Airplanes.ppt)
+2. Homework: Transcribe [Tin Man](https://www.dropbox.com/s/ooup0fp3lkx24kr/W4LS%20Tin%20Man.mp3) by The Avett Brothers
+
+
+
 
 ###For your information (FYI)
 * [Public Speaking 101](https://www.dropbox.com/s/6oukismatahj3ir/Public%20Speaking%20101.zip)
