@@ -28,7 +28,8 @@ title: Mrs. Sonia Meyer's Beihang Website
 1. [Airplanes PPT](https://www.dropbox.com/s/qtg2xvj99be5soq/W4LS%20Airplanes.ppt)
 2. Homework: Transcribe [Tin Man](https://www.dropbox.com/s/ooup0fp3lkx24kr/W4LS%20Tin%20Man.mp3) by The Avett Brothers
 
-
+### Week 5
+1. [Week 5 PPT](https://www.dropbox.com/s/bh7nf1vy10ueody/W5LS.ppt)
 
 
 ###For your information (FYI)

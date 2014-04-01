@@ -30,4 +30,13 @@ title: Professor Sonia Meyer's Beihang Website
 3. You can also print these too, if you want to:
    - [Transition Signals](https://www.dropbox.com/s/k7sy2n74ygkqatv/W4RW%20Transition%20Signals.pdf)
    - [Sonia's Example Academic Research Article](https://www.dropbox.com/s/ww9fgjdx2xy6sdp/W4RW%20same-sex%20parents.pdf)
-2. Homework: Find an article in English that is related to your thesis (from last class) and take detailed notes.
+2. Homework: Find an article in English that is related to your thesis (from last class) and take detailed notes.
+
+### Week 5
+1. [Week 5 PPT](https://www.dropbox.com/s/cxe6kcam8gkjbqj/W5RW.ppt)
+3. Homework: Record a one second video with your language partner and together write a 2 paragraph paper. The first paragraph should be a description of the video; the second pagraph should be an explanation of why you chose to record that snippet. This counts as your first of three reflection papers. 
+
+### Week 7 
+1. [Week 7 PPT]()
+2. Print these articles and bring them to class:
+   - [Oils](https://www.dropbox.com/s/in1qaby1m6c33rh/W3-Oils%20%28Note%20Taking%29.docx)   - [Teas](https://www.dropbox.com/s/7nt7hfjbq043twi/W3-Tea%20%28note%20taking%20diagram%29.docx)
