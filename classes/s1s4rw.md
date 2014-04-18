@@ -37,6 +37,6 @@ title: Professor Sonia Meyer's Beihang Website
 3. Homework: Record a one second video with your language partner and together write a 2 paragraph paper. The first paragraph should be a description of the video; the second pagraph should be an explanation of why you chose to record that snippet. This counts as your first of three reflection papers. 
 
 ### Week 7 
-1. [Week 7 PPT]()
+1. [Week 7 PPT](https://www.dropbox.com/s/myxck9utc5njz88/S14RW_WEEK%207_Reviews.ppt)
 2. Print these articles and bring them to class:
    - [Oils](https://www.dropbox.com/s/in1qaby1m6c33rh/W3-Oils%20%28Note%20Taking%29.docx)   - [Teas](https://www.dropbox.com/s/7nt7hfjbq043twi/W3-Tea%20%28note%20taking%20diagram%29.docx)
