@@ -31,6 +31,13 @@ title: Mrs. Sonia Meyer's Beihang Website
 ### Week 5
 1. [Week 5 PPT](https://www.dropbox.com/s/bh7nf1vy10ueody/W5LS.ppt)
 
+### Week 7
+1. [Family PPT](https://www.dropbox.com/s/23j4xp1ew0e98ep/Week%207%20Family.ppt)
+
+
+
+
+
 
 ###For your information (FYI)
 * [Public Speaking 101](https://www.dropbox.com/s/6oukismatahj3ir/Public%20Speaking%20101.zip)
