@@ -34,7 +34,8 @@ title: Mrs. Sonia Meyer's Beihang Website
 ### Week 7
 1. [Family PPT](https://www.dropbox.com/s/23j4xp1ew0e98ep/Week%207%20Family.ppt)
 
-
+### Week 8
+1. [Midterm-Decades Project](https://www.dropbox.com/s/gv431lyy5wc7wgz/Midterm-Decades%20Project.pdf)
 
 
 
