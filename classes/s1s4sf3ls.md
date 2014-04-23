@@ -35,7 +35,12 @@ title: Mrs. Sonia Meyer's Beihang Website
 1. [Family PPT](https://www.dropbox.com/s/23j4xp1ew0e98ep/Week%207%20Family.ppt)
 
 ### Week 8
-1. [Midterm-Decades Project](https://www.dropbox.com/s/gv431lyy5wc7wgz/Midterm-Decades%20Project.pdf)
+1. [Midterm Presentation-Decades Project](https://www.dropbox.com/s/gv431lyy5wc7wgz/Midterm-Decades%20Project.pdf) due in Week 10 (aka next next Monday/Thursday)
+2. Homework: Meet with your group, choose a topic, and email it to me for approval.
+
+Notice for classes S1 and S4: If you were supposed to present your normal presentation during Week 10, your presentation is now moved to Week 15. During Week 10, we will only be doing the midterm presentations.
+
+
 
 
 

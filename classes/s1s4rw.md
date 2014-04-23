@@ -41,3 +41,9 @@ title: Professor Sonia Meyer's Beihang Website
 2. Print these articles and bring them to class:
    - [Oils](https://www.dropbox.com/s/in1qaby1m6c33rh/W3-Oils%20%28Note%20Taking%29.docx)   - [Teas](https://www.dropbox.com/s/7nt7hfjbq043twi/W3-Tea%20%28note%20taking%20diagram%29.docx)
 3. Homework: Write a 4 paragraph movie review using my instructions from class.
+
+### Week 8
+
+1. [Week 8 PPT](https://www.dropbox.com/s/q16c5qcoamhosh7/S14RW_WEEK%208_NOTES.ppt)
+2. [Take home note taking test](https://www.dropbox.com/s/2pe9flgf2yrqoyl/Take%20home%20test-Coffee.pdf) due next Wednesday
+3. By the way, everyone did a really good job on their movie reviews. I was very impressed!
