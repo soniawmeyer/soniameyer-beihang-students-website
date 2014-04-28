@@ -47,3 +47,8 @@ title: Professor Sonia Meyer's Beihang Website
 1. [Week 8 PPT](https://www.dropbox.com/s/q16c5qcoamhosh7/S14RW_WEEK%208_NOTES.ppt)
 2. [Take home note taking test](https://www.dropbox.com/s/2pe9flgf2yrqoyl/Take%20home%20test-Coffee.pdf) due next Wednesday
 3. By the way, everyone did a really good job on their movie reviews. I was very impressed!
+
+### Week 9
+1. [Memoirs PPT](https://www.dropbox.com/s/cdnrnnq1thot0xn/RWW9%20Memoir.ppt)
+2. Print [Claim to Sanity](https://www.dropbox.com/s/1leethnn33sdibg/Claim%20to%20Sanity-Excerpts.doc), an example memoir, and bring to **this** class--we will read it in class
+3. Homework: Write your own memoir, follow the instructions from in class (see the ppt), bring a printed copy to our next class
