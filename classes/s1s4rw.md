@@ -53,3 +53,9 @@ title: Professor Sonia Meyer's Beihang Website
 2. Print [Claim to Sanity](https://www.dropbox.com/s/1leethnn33sdibg/Claim%20to%20Sanity-Excerpts.doc), an example memoir, and bring to **this** class--we will read it in class
 3. Homework: Write your own memoir, follow the instructions from in class (see the ppt), bring a printed copy to our next class
 2. Print for next class (Week 10) [One Child's Meat](https://www.dropbox.com/s/dycrq493ix38awu/W4-One%20Child%27s%20Meat%20%28to%20print%29.pdf)
+
+### Week 10
+1. [For and Against PPT](https://www.dropbox.com/s/zhq6y7625loqedk/RWW10-ForandAgainst.ppt)
+4. [Smart Phones Debate Video](https://www.dropbox.com/s/isy1dp9r37lbgp3/W14%3F-Argument%20Structures%20about%20Smartphones.mp4)
+3. [Useful Transition Words](https://www.dropbox.com/s/rqhjvwi9baksj39/Useful%20Transition%20Words-F%26A.pdf)
+5. Homework: Write a for and against paper on whether smart phones should be used in class; follow the intsructions from the PPT.
