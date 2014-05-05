@@ -52,3 +52,4 @@ title: Professor Sonia Meyer's Beihang Website
 1. [Memoirs PPT](https://www.dropbox.com/s/cdnrnnq1thot0xn/RWW9%20Memoir.ppt)
 2. Print [Claim to Sanity](https://www.dropbox.com/s/1leethnn33sdibg/Claim%20to%20Sanity-Excerpts.doc), an example memoir, and bring to **this** class--we will read it in class
 3. Homework: Write your own memoir, follow the instructions from in class (see the ppt), bring a printed copy to our next class
+2. Print for next class (Week 10) [One Child's Meat](https://www.dropbox.com/s/dycrq493ix38awu/W4-One%20Child%27s%20Meat%20%28to%20print%29.pdf)
