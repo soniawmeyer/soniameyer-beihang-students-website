@@ -41,7 +41,8 @@ title: Mrs. Sonia Meyer's Beihang Website
 
 Notice for classes S1 and S4: If you were supposed to present your normal presentation during Week 10, your presentation is now moved to Week 15. During Week 10, we will only be doing the midterm presentations.
 
-
+### Week 10
+Good job on your presentations! Now that you are done preparing for it, you need to turn in your language partner pictures once again.
 
 
 
