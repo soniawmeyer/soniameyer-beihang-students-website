@@ -57,5 +57,5 @@ title: Professor Sonia Meyer's Beihang Website
 ### Week 10
 1. [For and Against PPT](https://www.dropbox.com/s/zhq6y7625loqedk/RWW10-ForandAgainst.ppt)
 4. [Smart Phones Debate Video Slides](https://www.dropbox.com/s/icgbi27drv2rqc2/smartphones.pdf)
-3. [Useful Transition Words](https://www.dropbox.com/s/rqhjvwi9baksj39/Useful%20Transition%20Words-F%26A.pdf)
+3. [Useful Transition Words](https://www.dropbox.com/s/1fxybpwzvpdaiwz/Useful%20Transition%20Words.pdf)
 5. Homework: Write a for and against paper on whether smart phones should be used in class; follow the intsructions from the PPT.
