@@ -59,3 +59,6 @@ title: Professor Sonia Meyer's Beihang Website
 4. [Smart Phones Debate Video Slides](https://www.dropbox.com/s/icgbi27drv2rqc2/smartphones.pdf)
 3. [Useful Transition Words](https://sonia-beihang-website-resources.s3.amazonaws.com/Useful%20Transition%20Words.pdf)
 5. Homework: Write a for and against paper on whether smart phones should be used in class; follow the intsructions from the PPT.
+
+### Week 12
+1. Bring to class: [Thesis Worksheet](https://www.dropbox.com/s/jwkdxfufyofay3a/RW_Thesis_Practice.pdf) and [Introductory Paragraph Worksheet](https://www.dropbox.com/s/p2filbs9c7lr8sx/RW_Opening_Worksheet.pdf)
