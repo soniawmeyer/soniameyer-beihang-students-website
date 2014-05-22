@@ -44,6 +44,11 @@ Notice for classes S1 and S4: If you were supposed to present your normal presen
 ### Week 10
 Good job on your presentations! Now that you are done preparing for it, you need to turn in your language partner pictures once again.
 
+### Week 11
+[Small Talk PPT](https://www.dropbox.com/s/cpj12s8arqxg86u/Small%20Talk.ppt)
+
+### Week 12
+[Investment Terminology PPT](https://www.dropbox.com/s/1lpm28l9fx4bczp/Investment%20Terminology.ppt)
 
 
 

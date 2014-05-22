@@ -62,3 +62,9 @@ title: Professor Sonia Meyer's Beihang Website
 
 ### Week 12
 1. Bring to class: [Thesis Worksheet](https://www.dropbox.com/s/jwkdxfufyofay3a/RW_Thesis_Practice.pdf) and [Introductory Paragraph Worksheet](https://www.dropbox.com/s/p2filbs9c7lr8sx/RW_Opening_Worksheet.pdf)
+2. [Thesis and Intro PPT](https://www.dropbox.com/s/1afq608ekvyl1vv/RW_ThesisandIntro.ppt)
+3. Homework: Finish the 2 worksheets and rewrite the introductory paragraph of your last paper (For & Against using smart phones in class)
+
+
+### Week 13
+1. Print this (worksheet)[https://www.dropbox.com/s/8zj6aljn46a2143/RW_Bodies_Worksheet.docx]
