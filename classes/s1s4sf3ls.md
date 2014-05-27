@@ -50,6 +50,10 @@ Good job on your presentations! Now that you are done preparing for it, you need
 ### Week 12
 [Investment Terminology PPT](https://www.dropbox.com/s/1lpm28l9fx4bczp/Investment%20Terminology.ppt)
 
+### Week 13
+1. [The American Workplace](https://www.dropbox.com/s/8296dx5aydog753/Workplace.ppt)
+2. [Sample Resume](https://www.dropbox.com/s/bvvkxe0ejggtuha/Sample_Resume-Teaching.pdf)
+3. Notice: We do not next have class Monday, so if you are signed up to give a presentation on Week 14, you will present on Wednesday of Week 14.
 
 
 ###For your information (FYI)
