@@ -68,3 +68,5 @@ title: Professor Sonia Meyer's Beihang Website
 
 ### Week 13
 1. Print this [worksheet](https://www.dropbox.com/s/8zj6aljn46a2143/RW_Bodies_Worksheet.docx)
+2. Homework: Email me your one sentence thesis statement. Print your outline and bring it to class.
+3. [Body Paragraphs PPT](https://www.dropbox.com/s/zbwo0ja1s6cijf4/RWW13%20Body.ppt)
