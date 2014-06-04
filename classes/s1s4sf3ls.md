@@ -55,6 +55,17 @@ Good job on your presentations! Now that you are done preparing for it, you need
 2. [Sample Resume](https://www.dropbox.com/s/bvvkxe0ejggtuha/Sample_Resume-Teaching.pdf)
 3. Notice: We do not next have class Monday, so if you are signed up to give a presentation on Week 14, you will present on Wednesday of Week 14.
 
+### Week 14 (only SF3)
+1. Final: [Mock Interview Instructions](https://www.dropbox.com/s/hx8k9l5cwo295o2/Final%20Mock%20Instructions.pdf)
+7. Final: [Time Slots-All classes](https://www.dropbox.com/s/12b5fnoxpm7n0kj/Final%20Time%20Slots.pdf)
+6. Mock Interview Job Ad Option 1: [LivingSocial Security Engineer](https://www.dropbox.com/s/21euy7hldf5zqdv/Final%20Mock%20Interview-LS-Security%20Engineer.pdf)
+5. Mock Interview Job Ad Option 2: [Artsy Executive Assistant](https://www.dropbox.com/s/eygo0aolcunifp7/Final%20Mock%20Interview-Artsy-Executive%20Assistant.pdf)
+4. FYI: [10 Most Common Interview Questions](https://www.dropbox.com/s/aa62ffhlioujj1n/Final%2010%20Most%20Common%20Interview%20Questions.pdf)
+3. FYI: [Mock Interview Video Example of Good and Bad Interviews](https://www.dropbox.com/s/4zmcvjiqpl1rhnl/Final%20Cerner%20Mock%20Interview%20Practice-Good%20v%20Bad.mp4.zip)
+
+### Week 15 (only S1 & S4)
+1. See week 14 for information about the final
+
 
 ###For your information (FYI)
 * [Public Speaking 101](https://www.dropbox.com/s/6oukismatahj3ir/Public%20Speaking%20101.zip)

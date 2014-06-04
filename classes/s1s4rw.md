@@ -70,3 +70,7 @@ title: Professor Sonia Meyer's Beihang Website
 1. Print this [worksheet](https://www.dropbox.com/s/8zj6aljn46a2143/RW_Bodies_Worksheet.docx)
 2. Homework: Email me your one sentence thesis statement. Print your outline and bring it to class.
 3. [Body Paragraphs PPT](https://www.dropbox.com/s/zbwo0ja1s6cijf4/RWW13%20Body.ppt)
+
+### Week 14
+1. [Is this a thesis statement? PPT](https://www.dropbox.com/s/iu52z0lvq2bvghk/is%20this%20a_.ppt)
+2. **Homework**: Using your peer-reviewed outline, **write a rough draft**, reference at least 2 academic sources
