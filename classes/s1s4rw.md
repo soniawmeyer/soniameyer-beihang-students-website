@@ -74,3 +74,7 @@ title: Professor Sonia Meyer's Beihang Website
 ### Week 14
 1. [Is this a thesis statement? PPT](https://www.dropbox.com/s/iu52z0lvq2bvghk/is%20this%20a_.ppt)
 2. **Homework**: Using your peer-reviewed outline, **write a rough draft**, reference at least 2 academic sources
+
+### Week 15
+1. Print [this](https://www.dropbox.com/s/vobqmfvh7maggq9/W6-Critical%20reading%20sample%20paragraph%201.docx) and bring to class
+2. Homework: Incorporate your peers' comments and **write your final draft.**
