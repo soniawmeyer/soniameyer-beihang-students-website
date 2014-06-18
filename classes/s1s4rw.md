@@ -78,3 +78,8 @@ title: Professor Sonia Meyer's Beihang Website
 ### Week 15
 1. Print [this](https://www.dropbox.com/s/vobqmfvh7maggq9/W6-Critical%20reading%20sample%20paragraph%201.docx) and bring to class
 2. Homework: Incorporate your peers' comments and **write your final draft.**
+
+
+### Class Photos
+[S1](https://www.dropbox.com/s/rkqq3v88t664gxw/S1%20class%20photo.JPG)
+[S4](https://www.dropbox.com/s/ap43rni6g0p0z8t/S4%20class%20photo.jpg)
