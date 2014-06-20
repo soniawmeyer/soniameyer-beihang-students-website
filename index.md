@@ -17,4 +17,5 @@ Thursday: [Class 15, 18, & 21](/classes/151821.html): American Culture
 
 Thursday Evening: [Sino-French Class 3](/classes/s1s4sf3ls.html): Listening and Speaking
 
-####[Presentation Sign Up Sheets-All Classes](https://www.dropbox.com/s/chkxlrdbcgps43p/Spring14%20LS%20Presentations.pdf)
+####[FINAL GRADES](https://www.dropbox.com/s/l4lzt3ogjvdg6jf/Spring%202014%20Grades%20PDF.pdf)
+Thank you everyone for a great semester! Check your grades. Double check that your **student number** is correct. If you think I got the grade on one of your assignments wrong, be sure to send a picture of the grade I put on your assignment when you email me. Good luck on the rest of your finals!
