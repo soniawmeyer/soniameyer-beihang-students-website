@@ -9,15 +9,9 @@ I will post all the class material to this website, so be sure to check it frequ
 
 ## Classes
 
-Monday Afternoon: [S1 & S4](/classes/s1s4sf3ls.html): Listening and Speaking
+Graduate Student: [American Culture](/classes/americanculture)
 
-Wednesday Morning: [S1 & S4](/classes/s1s4rw.html): Reading and Writing
+English Minors: [Oral English](/classes/oralenglish)
 
-Thursday: [Class 15, 18, & 21](/classes/151821.html): American Culture
-
-Thursday Evening: [Sino-French Class 3](/classes/s1s4sf3ls.html): Listening and Speaking
-
-####[FINAL GRADES](https://www.dropbox.com/s/l4lzt3ogjvdg6jf/Spring%202014%20Grades%20PDF.pdf)
-Thank you everyone for a great semester! Check your grades. Double check that your **student number** is correct. If you think I got the grade on one of your assignments wrong, be sure to send a picture of the grade I put on your assignment when you email me. Good luck on the rest of your finals!
-
-Note: Green indicates exceptional work and red indicates plagiarism or lateness 
+##[Grades]()
+You can check your grade at any point during the semester. This means I will not respond to a flood of email at the end of the semester nor change any grades. Stay on top of your own grades; if there are mistakes, I will be happy to fix it before the end of the semester.
