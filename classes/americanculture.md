@@ -9,3 +9,6 @@ title: Mrs. Sonia Meyer's Beihang Website
 
 ###Week of Sept 22-26: 
 - Homework: input your student information [here](/form/form.html). Due Sept 27.
+
+###Week of Sept 29-Oct 9:
+- [American Values PDF Version](http://sonia-beihang-website-resources.s3.amazonaws.com/AmericanValues.pdf)
