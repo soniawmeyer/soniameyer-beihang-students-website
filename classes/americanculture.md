@@ -12,3 +12,6 @@ title: Mrs. Sonia Meyer's Beihang Website
 
 ###Week of Sept 29-Oct 9:
 - [American Values PDF Version](http://sonia-beihang-website-resources.s3.amazonaws.com/AmericanValues.pdf)
+
+###Week of Oct 13-16:
+- [Small Talk PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/Small%20Talk.ppt)
