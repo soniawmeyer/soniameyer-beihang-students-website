@@ -13,3 +13,11 @@ title: Mrs. Sonia Meyer's Beihang Website
 ###Week of Oct 20-23
 - [Family PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/Week%207%20Family.ppt)
 - Watch [Modern Family](http://tv.sohu.com/20120926/n354001234.shtml)
+
+###Week of Oct 27-30
+ - [Education PPT](??????)
+ - [Presentation Instructions](http://sonia-beihang-website-resources.s3.amazonaws.com/Presentation%20Instructions.pdf)
+ - Homework: Email me your topic and outline for your presentation
+ 
+ 
+##[Midterm Presentations](http://sonia-beihang-website-resources.s3.amazonaws.com/Presentation%20Instructions.pdf) due on Nov 6 & Nov 20 

@@ -4,7 +4,7 @@ title: Mrs. Sonia Meyer's Beihang Website
 ---
 # Welcome *American Culture* Students!
 
-##[Class syllabus](http://sonia-beihang-website-resources.s3.amazonaws.com/Graduate%20Culture%20Fall%202014%20Syllabus.pdf) (incomplete)
+##[Class syllabus](http://sonia-beihang-website-resources.s3.amazonaws.com/Graduate%20Culture%20Fall%202014%20Syllabus.pdf)
 
 
 ###Week of Sept 29-Oct 9:
@@ -16,3 +16,12 @@ title: Mrs. Sonia Meyer's Beihang Website
 ###Week of Oct 20-23
 - [Family PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/Week%207%20Family.ppt)
 - Watch [Modern Family](http://tv.sohu.com/20120926/n354001234.shtml)
+
+###Week of Oct 27-30
+- [Midterm Project Instructions](http://sonia-beihang-website-resources.s3.amazonaws.com/Midterm%20Project%20Instructions-Do%20Americans%20do%20that%20too%3F.pdf) 
+- [Halloween PPT](???????)
+
+
+
+
+##[Midterm Project](http://sonia-beihang-website-resources.s3.amazonaws.com/Midterm%20Project%20Instructions-Do%20Americans%20do%20that%20too%3F.pdf) due the week of Nov 17-20
