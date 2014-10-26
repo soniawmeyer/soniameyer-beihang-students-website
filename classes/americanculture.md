@@ -19,7 +19,13 @@ title: Mrs. Sonia Meyer's Beihang Website
 
 ###Week of Oct 27-30
 - [Midterm Project Instructions](http://sonia-beihang-website-resources.s3.amazonaws.com/Midterm%20Project%20Instructions-Do%20Americans%20do%20that%20too%3F.pdf) 
-- [Halloween PPT](???????)
+- [Halloween and Midterm Groups PPT](https://s3-ap-northeast-1.amazonaws.com/sonia-beihang-website-resources/Halloween+GC.pdf)
+- Homework: Meet with your group and prepare your presentation
+
+###Week of Nov 3-6
+- [Education PPT](https://s3-ap-northeast-1.amazonaws.com/sonia-beihang-website-resources/Education+GC.pdf)
+- Additional reading about [education](http://sonia-beihang-website-resources.s3.amazonaws.com/Week%208%20American%20Ways-Education.pdf) and [studying](http://sonia-beihang-website-resources.s3.amazonaws.com/Week%208%20American%20Ways-Studying.pdf)
+- Homework: Your presentation is due next week, after the APEC holiday, take this extra time to practice and perfect your presentation, remember the 5 minute time limit for presentations
 
 
 
