@@ -22,4 +22,15 @@ title: Mrs. Sonia Meyer's Beihang Website
  - Homework: Email me your topic and outline for your presentation
  
  
-##[Midterm Presentations](http://sonia-beihang-website-resources.s3.amazonaws.com/Presentation%20Instructions.pdf) due on Nov 6 & Nov 20 
+###[Midterm Presentations](http://sonia-beihang-website-resources.s3.amazonaws.com/Presentation%20Instructions.pdf) due on Nov 6 & Nov 20 
+
+
+###Week of Nov 24-27
+- [Thanksgiving & Tech Startups PPT]()
+
+###Week of Dec 1-4
+- [Dating PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/Dating.pdf) 
+- Homework: Read the instruction for the finals; review the topics of conversation
+
+
+###[Final Presentations](http://sonia-beihang-website-resources.s3.amazonaws.com/Presentation%20Instructions.pdf) due on Dec 18 & Jan 8
