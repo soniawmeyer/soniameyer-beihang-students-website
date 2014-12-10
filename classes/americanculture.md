@@ -33,12 +33,12 @@ title: Mrs. Sonia Meyer's Beihang Website
 ###[Midterm Project](http://sonia-beihang-website-resources.s3.amazonaws.com/Midterm%20Project%20Instructions-Do%20Americans%20do%20that%20too%3F.pdf) due the week of Nov 17-20
 
 ###Week of Nov 24-27
-- [Thanksgiving & Tech Startups PPT]()
+- [Thanksgiving & Tech Startups PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/Thanksgiving%20and%20Apps.pdf)
 
 ###Week of Dec 1-4
 - [Dating PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/Dating.pdf) 
 - Homework: Read the instruction for the finals; review the topics of conversation
 
 
-##[Finals](http://sonia-beihang-website-resources.s3.amazonaws.com/Final%20Instructions.pdf): check [here](http://sonia-beihang-website-resources.s3.amazonaws.com/Final%20Instructions.pdf) to see your time slot
+##[Finals](http://sonia-beihang-website-resources.s3.amazonaws.com/Final%20Instructions.pdf): check [here](http://sonia-beihang-website-resources.s3.amazonaws.com/Finals%20Timetable.pdf) to see your time slot
 - Remember to arrive at least 5 minutes early to your time slot!

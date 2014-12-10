@@ -26,7 +26,7 @@ title: Mrs. Sonia Meyer's Beihang Website
 
 
 ###Week of Nov 24-27
-- [Thanksgiving & Tech Startups PPT]()
+- [Thanksgiving & Tech Startups PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/Thanksgiving%20and%20Apps.pdf)
 
 ###Week of Dec 1-4
 - [Dating PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/Dating.pdf) 
