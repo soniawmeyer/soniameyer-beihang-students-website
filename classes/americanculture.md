@@ -23,7 +23,7 @@ title: Mrs. Sonia Meyer's Beihang Website
 - Homework: Meet with your group and prepare your presentation
 
 ###Week of Nov 3-6
-- [Education PPT](https://s3-ap-northeast-1.amazonaws.com/sonia-beihang-website-resources/Education+GC.pdf)
+- [Education PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/Education+GC.pdf)
 - Additional reading about [education](http://sonia-beihang-website-resources.s3.amazonaws.com/Week%208%20American%20Ways-Education.pdf) and [studying](http://sonia-beihang-website-resources.s3.amazonaws.com/Week%208%20American%20Ways-Studying.pdf)
 - Homework: Your presentation is due next week, after the APEC holiday, take this extra time to practice and perfect your presentation, remember the 5 minute time limit for presentations
 
