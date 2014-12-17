@@ -19,8 +19,8 @@ title: Mrs. Sonia Meyer's Beihang Website
 
 ###Week of Oct 27-30
 - [Midterm Project Instructions](http://sonia-beihang-website-resources.s3.amazonaws.com/Midterm%20Project%20Instructions-Do%20Americans%20do%20that%20too%3F.pdf) 
-- [Halloween and Midterm Groups PPT](https://s3-ap-northeast-1.amazonaws.com/sonia-beihang-website-resources/Halloween+GC.pdf)
-- Homework: Meet with your group and prepare your presentation
+ - [Halloween PPT](http://download.meyercraft.net/halloween-gc.pdf)
+ - Homework: Meet with your group and prepare your presentation
 
 ###Week of Nov 3-6
 - [Education PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/Education+GC.pdf)

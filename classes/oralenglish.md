@@ -16,7 +16,7 @@ title: Mrs. Sonia Meyer's Beihang Website
 
 ###Week of Oct 27-30
  - [Education PPT](https://s3-ap-northeast-1.amazonaws.com/sonia-beihang-website-resources/Education+OE.pdf)
- - [Halloween PPT](https://s3-ap-northeast-1.amazonaws.com/sonia-beihang-website-resources/Halloween+OE.pdf)
+ - [Halloween PPT](http://download.meyercraft.net/halloween-gc.pdf)
  - [Giving Advice Worksheet](https://s3-ap-northeast-1.amazonaws.com/sonia-beihang-website-resources/Advice+Worksheet.pdf)
  - [Presentation Instructions](http://sonia-beihang-website-resources.s3.amazonaws.com/Presentation%20Instructions.pdf)
  - Homework: Email me your topic and outline for your presentation
