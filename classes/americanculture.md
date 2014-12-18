@@ -39,6 +39,13 @@ title: Mrs. Sonia Meyer's Beihang Website
 - [Dating PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/Dating.pdf) 
 - Homework: Read the instruction for the finals; review the topics of conversation
 
+###Week of Dec 8-10
+- [Globalization PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/Week%2011%20GC%20Globalization.pdf)
+
+###Week of Dec 15-17
+- [American Workplace PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/Workplace.pdf)
+- Homework: Prepare for your final by reviewing class materials
+
 
 ##[Finals](http://sonia-beihang-website-resources.s3.amazonaws.com/Final%20Instructions.pdf): check [here](http://sonia-beihang-website-resources.s3.amazonaws.com/Finals%20Timetable.pdf) to see your time slot
 - Remember to arrive at least 5 minutes early to your time slot!

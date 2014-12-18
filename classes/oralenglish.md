@@ -32,5 +32,8 @@ title: Mrs. Sonia Meyer's Beihang Website
 - [Dating PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/Dating.pdf) 
 - Homework: Read the instruction for the finals; review the topics of conversation
 
+###December 11, 2015
+- [Debating PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/Debate.pdf)
+- Homework: email me your presentation outline
 
 ###[Final Presentations](http://sonia-beihang-website-resources.s3.amazonaws.com/Presentation%20Instructions.pdf) due on Dec 18 & Jan 8
