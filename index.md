@@ -21,3 +21,6 @@ You can check your grade at any point during the semester. This means I will not
 I will not change anyone's participation grade under any circumstances. Stop emailing me about it. 
 
 There is still time before the end of the semester to complete the extra credit.
+
+#New Announcement: No class next Wednesday
+Previously I had planned to have one last "fun" class on Jan 7, but it seems that most of you would rather study for your finals, so we will not have class on Jan 7. If you are one of the few who prefer to have class, please email me and I will arrange something.
