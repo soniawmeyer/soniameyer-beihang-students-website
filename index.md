@@ -22,5 +22,8 @@ I will not change anyone's participation grade under any circumstances. Stop ema
 
 There is still time before the end of the semester to complete the extra credit.
 
-#New Announcement: No class next Wednesday
+#Announcement: No class next Wednesday
 Previously I had planned to have one last "fun" class on Jan 7, but it seems that most of you would rather study for your finals, so we will not have class on Jan 7. If you are one of the few who prefer to have class, please email me and I will arrange something.
+
+#New Announcement: Friday is the last day for extra credit
+Friday, January 9, 5 pm, is the last day to email me extra credit. 
