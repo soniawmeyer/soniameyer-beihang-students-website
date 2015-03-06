@@ -16,9 +16,4 @@ Graduate Students: [American Culture](/classes/americanculture.html)
 English Majors/Minors: [Oral Communication](/classes/oralenglish.html)
 
 ##[Grades](gradesform/form/form.html)
-<<<<<<< HEAD
 You can check your grade at any point during the semester. This means I will not respond to a flood of emails at the end of the semester nor change any grades. Stay on top of your own grades; if there are mistakes, I will be happy to fix it before the end of the semester.
-=======
-
-#Announcement: Your grades have been sent in. Although I'll be traveling, please do email me if there is a discrepancy between your grade here and the record of your grade that your Chinese teacher has.
->>>>>>> 7ba79839975234d0429b096fea17eda4b8bb9f4c
