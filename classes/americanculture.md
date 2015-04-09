@@ -21,3 +21,9 @@ Fill out this [form](http://sonia.meyercraft.net/form/form.html) so that I have 
 ###Week 3: March 23 & 26
 I'm flying back on Monday, arriving Tuesday, and hopefully I'll be ready to teach by Thursday. I'm looking forward to meeting you all!	
 - Don't forget to bring your quiz completion certificate next week
+
+###Week 4: March 30 & April 2
+[Intro & Wedding PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/W4-Intro-Wedding.pdf)
+
+###Week 5/6: April 9 & April 13
+[Easter & Travel PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/W5-OE-easter-travel.pdf)
