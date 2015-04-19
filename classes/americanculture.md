@@ -27,3 +27,10 @@ I'm flying back on Monday, arriving Tuesday, and hopefully I'll be ready to teac
 
 ###Week 5/6: April 9 & April 13
 [Easter & Travel PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/W5-OE-easter-travel.pdf)
+
+###Week 7: April 20 & April 23
+[Dating PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/W7-Dating.pdf)
+
+[Midterm Instructions](http://sonia-beihang-website-resources.s3.amazonaws.com/Midterm%20Project.pdf)
+
+Homework: Meet with your group to choose a topic for your project. You may email me to confirm that you have chosen a good topic.

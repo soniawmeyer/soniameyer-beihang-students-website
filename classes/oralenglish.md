@@ -27,3 +27,16 @@ I'm flying back this week, looking forward to meeting you all next week!!!
 
 ###Week 5: April 8
 [Easter & Travel PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/W5-OE-easter-travel.pdf)
+
+Suggested reading: An [article](http://www.theatlantic.com/international/archive/2014/06/how-millennials-are-changing-international-travel/373007/?utm_source=SFFB) about American millenials' changing style of travel, similar to what we talked about this week.
+
+###Week 6: April 15
+[Studying Abroad in the US](http://sonia-beihang-website-resources.s3.amazonaws.com/W6-College%20Life.pdf)
+
+Homework: Show & Tell -- Bring an object to show to the class, and tell us why it is important, special, or meaningful to you.
+
+
+Suggested Readings: [Education chapter](http://sonia-beihang-website-resources.s3.amazonaws.com/W6%20American%20Ways-Education.pdf) from American Ways, [Studying chapter](http://sonia-beihang-website-resources.s3.amazonaws.com/W6%20American%20Ways-Studying.pdf) from American Ways, and an online [article](https://www.insidehighered.com/news/2015/01/21/study-examines-how-overseas-chinese-students-respond-criticism-their-country) about Chinese students in America
+
+###Week 7: April 22
+[Presentation Instructions](http://sonia-beihang-website-resources.s3.amazonaws.com/Presentation%20Instructions.pdf)
