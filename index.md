@@ -10,10 +10,8 @@ A few announcements:
 	English Corner
 	When: Sunday, May 3rd, 11 am
 	Where: New Main Building B707
-.
 
 	Graduate Students: There is an additional, more simple, set of instructions for your midterm project. Please read the instructions carefully. You can find it on the "American Cutlure" page.
-.
 
 	All students: You do not need to email me asking for excused absences.
 	

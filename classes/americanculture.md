@@ -35,14 +35,14 @@ I'm flying back on Monday, arriving Tuesday, and hopefully I'll be ready to teac
 
 Homework: Meet with your group to choose a topic for your project. You may email me to confirm that you have chosen a good topic.
 
-###Week *: April 27 & April 30
+###Week 8: April 27 & April 30
 Simplified Instructions:
 
 	Option A: Cultural Norms
 	Definition: behavior patterns that are typical of specific groups
 	Chinese translation: 文化规范／行为规范
 	1) Choose 1 specific Chinese cultural norm
-	2) Email me (sonia@meyercraft.net) for approval
+		2) Email me (sonia@meyercraft.net) for approval
 	3) Research if this norm exists in America (If similar, how so? If different, what is the difference? Why is it different?)
 	4) Create a presentaiton
 	5) Practice your presentation
