@@ -5,9 +5,18 @@ title: Mrs. Sonia Meyer's Beihang Website
 
 # Welcome Students!
 
-As you may have read already, I am still in America even though the semester has already started. There are two reasons. The first reason is that my husband's cousin is getting married! The second is that I am getting corrective eye surgery and need some time for recovery. That being said, I have already posted information in your class website (see below) with some information including the class syllabus, a quiz, and an information collection form, all of which are due **March 20th**. Please proceed to your class's website by clicking the link below.
+A few announcements:
 
-Update: I am getting ready for my flight tomorrow morning and I am very excited to be returning to China. I have recovered very quickly from my eye surgery, and the family wedding was wonderful. It is OK to complete the assignments late, but please complete them before your first class, and bring your certificate with you with your name on the certificate. 
+	English Corner
+	When: Sunday, May 3rd, 11 am
+	Where: New Main Building B707
+.
+
+	Graduate Students: There is an additional, more simple, set of instructions for your midterm project. Please read the instructions carefully. You can find it on the "American Cutlure" page.
+.
+
+	All students: You do not need to email me asking for excused absences.
+	
 
 I will post all the class material to this website, so be sure to check it frequently. If you have questions, [email me](mailto:sonia@meyercraft.net).
 
