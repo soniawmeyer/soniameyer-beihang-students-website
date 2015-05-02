@@ -46,6 +46,9 @@ Simplified Instructions:
 	3) Research if this norm exists in America (If similar, how so? If different, what is the difference? Why is it different?)
 	4) Create a presentaiton
 	5) Practice your presentation
+	6) Write a summary paragraph
+	7) Print the summary paragraph
+	8) Bring the summary paragraph and your presentation to class
 	
 	Example:
 	Norm: Chinese people always drink hot water.
@@ -65,6 +68,9 @@ Simplified Instructions:
 	3) Research if this behavior/value is accurate (If similar, how so? If different, what is the difference? Why is it different?)
 	4) Create a presentaiton
 	5) Practice your presentation
+	6) Write a summary paragraph
+	7) Print the summary paragraph
+	8) Bring the summary paragraph and your presentation to class
 	
 	Example:
 	Behavior from TV show: The Vampire Diaries -- How do these high school student have so much free time and seem like they never go to school?
