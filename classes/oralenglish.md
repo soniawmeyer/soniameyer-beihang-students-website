@@ -40,3 +40,9 @@ Suggested Readings: [Education chapter](http://sonia-beihang-website-resources.s
 
 ###Week 7: April 22
 [Presentation Instructions](http://sonia-beihang-website-resources.s3.amazonaws.com/Presentation%20Instructions.pdf)
+
+###Week 8: April 29
+[Feminism PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/W7-Feminism.pdf)
+
+###Week 9: May 6
+Great presentations this week! Looking forward to next week's presentations.
