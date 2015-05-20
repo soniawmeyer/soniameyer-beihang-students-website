@@ -28,7 +28,7 @@ I'm flying back this week, looking forward to meeting you all next week!!!
 ###Week 5: April 8
 [Easter & Travel PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/W5-OE-easter-travel.pdf)
 
-Suggested reading: An [article](http://www.theatlantic.com/international/archive/2014/06/how-millennials-are-changing-international-travel/373007/?utm_source=SFFB) about American millenials' changing style of travel, similar to what we talked about this week.
+Suggested reading: An [article](http://www.theatlantic.com/international/archive/2014/06/how-millennials-are-changing-international-travel/373007/?utm_source=SFFB) about American millenials' changing style of travel, similar to what we tahttp://sonia-beihang-website-resources.s3.amazonaws.com/W11%20Small%20Talk%20OE.pdflked about this week.
 
 ###Week 6: April 15
 [Studying Abroad in the US](http://sonia-beihang-website-resources.s3.amazonaws.com/W6-College%20Life.pdf)
@@ -46,3 +46,11 @@ Suggested Readings: [Education chapter](http://sonia-beihang-website-resources.s
 
 ###Week 9: May 6
 Great presentations this week! Looking forward to next week's presentations.
+
+###Week 10: May 13
+Another great set of presentations, good job everyone!
+
+###Week 11: May 20
+[Small Talk PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/W11%20Small%20Talk%20OE.pdf)
+
+Homework: Email me your transcribed conversation and evaluation by Tuesday, May 26, noon. For details, please see the PPT.

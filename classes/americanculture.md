@@ -81,9 +81,16 @@ Simplified Instructions:
 	-Person 4: According to our research, this kind of behavior does not accurately reflect American families. Most American parents have more influence over their children, and it is illegal for people under 21 to go into a bar.  
 	-Person 5: In conclusion, The Vampire Diaries does not accurately represent high school life.
 	
-###Week 8: May 4 & May 7
+###Week 9: May 4 & May 7
 Reminders for your summary paragraph:
 
 1) It needs to be printed.
 
 2) It needs to have everyone's name.
+
+
+###Week 10: May 11 & May 14
+Midterms! Your grades will be online shortly. 
+
+###Week 11: May 18 & May 21
+[Small Talk PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/W11%20Small%20Talk%20GC.pdf)
