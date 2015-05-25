@@ -98,8 +98,7 @@ Midterms! Your grades will be online shortly.
 ###Week 12: May 25 & May 28
 [Apps PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/W12-Apps.pdf)
 
-Remember to review the Finals' information below \/
-
+!!!Attention Monday students: I made a mistake, your finals start next week. Make sure you take a look at your timeslot and the instructions. 
 
 #Finals
 [Finals Instructions](http://sonia-beihang-website-resources.s3.amazonaws.com/Final%20Instructions.pdf)

@@ -7,13 +7,14 @@ title: Mrs. Sonia Meyer's Beihang Website
 
 A few announcements:
 
-	English Corner
-	When: Sunday, May 3rd, 11 am
-	Where: New Main Building B707
+		!!!Attention Monday students: I made a mistake, your finals start next week. Make sure you take a look at your timeslot and the instructions. 
+		
+		All students: You do not need to email me asking for excused absences.
+		
+		All students: For the semester project, you need to take a picture of yourself at the lecture.
+	
 
-	Graduate Students: There is an additional, more simple, set of instructions for your midterm project. Please read the instructions carefully. You can find it on the "American Cutlure" page.
 
-	All students: You do not need to email me asking for excused absences.
 	
 
 I will post all the class material to this website, so be sure to check it frequently. If you have questions, [email me](mailto:sonia@meyercraft.net).
