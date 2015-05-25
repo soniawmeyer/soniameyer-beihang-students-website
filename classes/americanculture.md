@@ -94,3 +94,14 @@ Midterms! Your grades will be online shortly.
 
 ###Week 11: May 18 & May 21
 [Small Talk PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/W11%20Small%20Talk%20GC.pdf)
+
+###Week 12: May 25 & May 28
+[Apps PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/W12-Apps.pdf)
+
+Remember to review the Finals' information below \/
+
+
+#Finals
+[Finals Instructions](http://sonia-beihang-website-resources.s3.amazonaws.com/Final%20Instructions.pdf)
+
+[Finals Timetable](http://sonia-beihang-website-resources.s3.amazonaws.com/Finals%20Timetable.pdf)
