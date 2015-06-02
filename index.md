@@ -11,7 +11,7 @@ A few announcements:
 		
 		All students: You do not need to email me asking for excused absences.
 		
-		All students: For the semester project, you need to take a picture of yourself at the lecture.
+		All students: For the semester project, you need to take a picture of yourself at the lecture. You can email this essay and picture(s) to me.
 	
 
 

@@ -54,3 +54,31 @@ Another great set of presentations, good job everyone!
 [Small Talk PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/W11%20Small%20Talk%20OE.pdf)
 
 Homework: Email me your transcribed conversation and evaluation by Tuesday, May 26, noon. For details, please see the PPT.
+
+###Week 12: May 27
+[Phrasal Alternatives PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/W12-OE.pdf)
+
+Additional resource: [Conversation phrases](http://www.eslgold.com/speaking/phrases.html)
+
+###Week 13: June 3
+[Psychology PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/Psychology.pdf)
+
+HW: Your final presentations are coming up in 2 weeks. Choose a partner and begin preparing for your presentation. Better to email your outline as soon as possible.
+
+###Week 14: June 10
+[Debate PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/Debate.pdf)
+
+HW: Don't forget to email your outline by June 15th at midnight.
+
+###Week 15: June 17
+Final Presentations Round 1
+
+###Week 16: June 24
+Final Presentations Round 2
+
+##Finals
+[Presentation Instructions](http://sonia-beihang-website-resources.s3.amazonaws.com/Presentation%20Instructions.pdf)
+
+*** My 10:00, 3:30, and 6:20 classes, choose a partner for your presentation. 
+
+Additional resource: [Presentation specific phrases](http://speakspeak.com/resources/general-english-vocabulary/presentation-language-phrases)

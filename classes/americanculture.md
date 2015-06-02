@@ -100,6 +100,10 @@ Midterms! Your grades will be online shortly.
 
 !!!Attention Monday students: I made a mistake, your finals start next week. Make sure you take a look at your timeslot and the instructions. 
 
+###Week 13: June 1 & June 4
+[Family PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/W13-Family.pdf)
+
+
 #Finals
 [Finals Instructions](http://sonia-beihang-website-resources.s3.amazonaws.com/Final%20Instructions.pdf)
 
