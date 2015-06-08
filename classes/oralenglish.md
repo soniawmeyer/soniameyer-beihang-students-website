@@ -61,12 +61,14 @@ Homework: Email me your transcribed conversation and evaluation by Tuesday, May 
 Additional resource: [Conversation phrases](http://www.eslgold.com/speaking/phrases.html)
 
 ###Week 13: June 3
-[Psychology PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/Psychology.pdf)
+[Psychology PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/W13-Psychology.pdf)
 
 HW: Your final presentations are coming up in 2 weeks. Choose a partner and begin preparing for your presentation. Better to email your outline as soon as possible.
 
+Additional HW: [Myers Briggs Personality Test](http://www.16personalities.com/free-personality-test)
+
 ###Week 14: June 10
-[Debate PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/Debate.pdf)
+[Debate PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/W14-Debate.pdf)
 
 HW: Don't forget to email your outline by June 15th at midnight.
 
