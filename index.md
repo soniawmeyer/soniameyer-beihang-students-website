@@ -7,11 +7,12 @@ title: Mrs. Sonia Meyer's Beihang Website
 
 A few announcements:
 
-		!!!Attention Monday students: I made a mistake, your finals start next week. Make sure you take a look at your timeslot and the instructions. 
+		!!!Wednesday Students: I'm going to wait until I return to America to get my surgery, so we will have class this week.
+
 		
 		All students: You do not need to email me asking for excused absences.
 		
-		All students: For the semester project, you need to take a picture of yourself at the lecture. You can email this essay and picture(s) to me.
+		All students: For the semester project, you need to take a picture of yourself at the lecture. You can email the essay and picture(s) to me.
 	
 
 

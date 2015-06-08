@@ -68,9 +68,11 @@ HW: Your final presentations are coming up in 2 weeks. Choose a partner and begi
 Additional HW: [Myers Briggs Personality Test](http://www.16personalities.com/free-personality-test)
 
 ###Week 14: June 10
+Announcement: I'm going to wait until I return to America to get my surgery, so we will have class this week.
+
 [Debate PPT](http://sonia-beihang-website-resources.s3.amazonaws.com/W14-Debate.pdf)
 
-HW: Don't forget to email your outline by June 15th at midnight.
+HW: Don't forget to email your outline by June 13th at midnight.
 
 ###Week 15: June 17
 Final Presentations Round 1
@@ -83,4 +85,4 @@ Final Presentations Round 2
 
 *** My 10:00, 3:30, and 6:20 classes, choose a partner for your presentation. 
 
-Additional resource: [Presentation specific phrases](http://speakspeak.com/resources/general-english-vocabulary/presentation-language-phrases)
+Additional resource: [Presentation specific phrases](http://sonia-beihang-website-resources.s3.amazonaws.com/Presentation%20phrasebook.pdf)
