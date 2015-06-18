@@ -7,10 +7,12 @@ title: Mrs. Sonia Meyer's Beihang Website
 
 A few announcements:
 
-		ENGLISH CORNER
-		When: Sunday, June 14th, 4:30-6:00 pm
-		Where: New Main Building B707
-
+		I will be in Zhangjiajie until Tuesday evening so I may have limited access to emails.
+		
+		Wednesday morning students: In regards to your final presentaitons. These presentations are now ~~optional~~. That means you do not have to do them, and if you choose to do them, they will not be graded, but you will still recieve feedback from me. Next week, you can choose to give your presentation in class if you want to. If you don't want to give your presentation, but still want feedback, you may record a short video of yourself before class and bring it to class on a USB. After optional final presentations are finished, we can play a game or have an open discussion about any topic. 
+		If you choose to make a video of yourself for feedback, I will only accept .mp4, .mov, .mkv, and .avi formats. Please title your video like this: "12345678 Johnbob".
+		So sorry about the confusion and disruption, please email with any problems!
+		
 		
 		All students: In regards to the Semester Project, plagiarism will not be toleraetd.
 	
