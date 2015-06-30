@@ -12,6 +12,8 @@ A few announcements about your grades:
 	I did give extra credit for things like attending the English Corners, exceptional semester projects, and exceptional midterm presentations. As a result, your final score may be more than the cumulative score, however, if your final score is lower than the cumulative score, let me know! And if there are problems with your student number, also let me know.
 	
 	DO NOT email me claiming that you did not plagiarize. It is very easy for me to identify plagiarism. Do not try to lie to me or decieve me, I can tell.
+
+	Update: June 30, 2015 -- Grades have been submitted, I can no longer make changes to them.
 	
 
 I will post all the class material to this website, so be sure to check it frequently. If you have questions, [email me](mailto:sonia@meyercraft.net).
