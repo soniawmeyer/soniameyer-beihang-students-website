@@ -3,27 +3,26 @@ layout: default
 title: Mrs. Sonia Meyer's Beihang Website
 ---
 
+# Welcome Students!
 
+A few announcements about your grades:
 
-#What is plagiarism?
+	Your grades are finished. Now you can check for the most updated version of your grades. Please email me if you believe there are any mistakes. If you believe there is a mistake, please also include evidence of why you believe it is a mistake. Evidence can include photos of the grades I gave to you, or explanations for why you think there is an error.
+	
+	I did give extra credit for things like attending the English Corners, exceptional semester projects, and exceptional midterm presentations. As a result, your final score may be more than the cumulative score, however, if your final score is lower than the cumulative score, let me know! And if there are problems with your student number, also let me know.
+	
+	DO NOT email me claiming that you did not plagiarize. It is very easy for me to identify plagiarism. Do not try to lie to me or decieve me, I can tell.
 
-###Plagiarism is taking another person's words as your own.
+	Update: June 30, 2015 -- Grades have been submitted, I can no longer make changes to them.
+	
 
-This can be copying and pasting from a Wikipedia article on the internet.
+I will post all the class material to this website, so be sure to check it frequently. If you have questions, [email me](mailto:sonia@meyercraft.net).
 
-This can be copying and pasting from a textbook or research article.
+## Classes
 
-How do you use someone else's words without stealing them? You give them credit by using quotes and citations.
+Graduate Students: [American Culture](/classes/americanculture.html)
 
-If you are using the exact same words another person used, you must use "quotes".
+English Majors/Minors: [Oral Communication](/classes/oralenglish.html)
 
-If you are using your own words to summarize their idea, you must reference them in the text or with a citation.
-
-###Examples
-
-Example of a quote: Mrs. Meyer said, "Plagiarism is unacceptable."
-
-Example of referencing an idea: According to Einstein, the theory of relativity can be categorized into two theories.
-
-Example of a citation: The theory of relativity includes special relativity and general relativity (Einstein).
-
+##[Grades](gradesform/form/form.html)
+You can check your grade at any point during the semester. This means I will not respond to a flood of emails at the end of the semester nor change any grades. Stay on top of your own grades; if there are mistakes, I will be happy to fix it before the end of the semester.
